@@ -1,4 +1,4 @@
-using com.clover.remotepay.sdk;
+﻿using com.clover.remotepay.sdk;
 using System;
 using System.Threading;
 
@@ -12,8 +12,11 @@ namespace ConsolaUSBConector
                 "SWDEFOTWBD7XT.9MGLGMDLSYWTV", // remote application ID
                 "My POS", // POS name
                 "Register 1", // serial number
-                true //log aplicacion
+                true
             );
+
+
+
 
             var ccl = new ExampleCloverConnectionListener(cloverConnector); 
             cloverConnector.AddCloverConnectorListener(ccl); 

@@ -1,0 +1,17 @@
+C:\Users\Mati\Desktop\Nueva Consola\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Mati\Desktop\Nueva Consola\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Mati\Desktop\Nueva Consola\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Mati\Desktop\Nueva Consola\ConsoleApp1\bin\Debug\CloverConnector.dll
+C:\Users\Mati\Desktop\Nueva Consola\ConsoleApp1\bin\Debug\CloverWindowsSDK.dll
+C:\Users\Mati\Desktop\Nueva Consola\ConsoleApp1\bin\Debug\CloverWindowsTransport.dll
+C:\Users\Mati\Desktop\Nueva Consola\ConsoleApp1\bin\Debug\LibUsbDotNet.LibUsbDotNet.dll
+C:\Users\Mati\Desktop\Nueva Consola\ConsoleApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mati\Desktop\Nueva Consola\ConsoleApp1\bin\Debug\SuperSocket.ClientEngine.dll
+C:\Users\Mati\Desktop\Nueva Consola\ConsoleApp1\bin\Debug\WebSocket4Net.dll
+C:\Users\Mati\Desktop\Nueva Consola\ConsoleApp1\bin\Debug\CloverConnector.xml
+C:\Users\Mati\Desktop\Nueva Consola\ConsoleApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mati\Desktop\Nueva Consola\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Mati\Desktop\Nueva Consola\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Mati\Desktop\Nueva Consola\ConsoleApp1\obj\Debug\ConsoleA.CB28C8CC.Up2Date
+C:\Users\Mati\Desktop\Nueva Consola\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Mati\Desktop\Nueva Consola\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
